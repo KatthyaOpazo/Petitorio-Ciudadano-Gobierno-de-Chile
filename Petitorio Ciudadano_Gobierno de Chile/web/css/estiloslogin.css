@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-dic-2021, 23:16:38
+    Author     : Katthya
+*/
+
+body{background-image: url("../Images/Fondo4.PNG");
+     background-repeat: no-repeat;}
+
+form{
+    background-color: #1976D2;
+    border-radius: 15px;
+    color: white;
+    margin-left: 455px;
+    margin-top: 100px;
+    height: 305px;
+    width: 380px;
+}
+
+hr{
+    border-color: white; border-style: dotted;
+}
+
+label{
+    margin-left: 60px;
+    margin-right: 10px;
+}
+
+input{
+    width: 180px;
+    
+    color: black; text-decoration: none;
+          padding: 5px 40px;
+          display: block;
+          margin: 5px auto;
+          border-color: lightgrey;
+          border-radius: 8px; text-align: center; 
+          background: white; margin-block-end: 4px;
+}
+
+h2{
+    text-align: center;
+}
+
+button{
+     margin-left: 60px;
+     color: #000000; text-decoration: none;
+            padding: 5px 30px;
+            display: block;
+            margin: 18px auto;
+            border-radius: 19px; text-align: center; background: mintcream; 
+}

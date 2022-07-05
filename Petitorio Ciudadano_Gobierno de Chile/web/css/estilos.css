@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11-dic-2021, 17:26:08
+    Author     : Katthya
+*/
+
+
+/* Esta sección se define el fondo de la pagina y sus características.*/
+body{background-image: url("../Images/Fondo.PNG");
+     background-color: white; 
+     background-repeat: no-repeat;}
